@@ -46,8 +46,6 @@ path/ikaros/wavs3/45.wav|ますたーがおのぞみなら、わたしは
 path/ikaros/wavs3/46.wav|みゃくはくがみだれていますかつどうにししょうはありません
 path/ikaros/wavs3/47.wav|あのにちさいしょにであったのがますたーでよかったです
 path/ikaros/wavs3/48.wav|わたしはだいすきなますたーをまもります
-path/ikaros/wavs3/49.wav|あ
-path/ikaros/wavs3/50.wav|は
 path/ikaros/wavs3/51.wav|それがおのぞみなら
 path/ikaros/wavs3/52.wav|このようなことをおのぞみなのですか
 path/ikaros/wavs3/53.wav|わたしは、えんじぇろいどますたーのとうくん
@@ -57,7 +55,6 @@ path/ikaros/wavs3/56.wav|これはかなしみ
 path/ikaros/wavs3/57.wav|わたしはかいがんようですから
 path/ikaros/wavs3/58.wav|わたしはどうすればいいのでしょう
 path/ikaros/wavs3/59.wav|へいきとしてあつかわれるよりは
-path/ikaros/wavs3/60.wav|あ
 path/ikaros/wavs3/61.wav|にんとはやはりちがいますか
 path/ikaros/wavs3/62.wav|ますたー
 path/ikaros/wavs3/63.wav|あの、こまりますますたー
@@ -94,8 +91,6 @@ path/ikaros/wavs3/93.wav|わたしのくちびるがきになりますか
 path/ikaros/wavs3/94.wav|なぜでしょうどうりょくつゆのちょうしがへんです
 path/ikaros/wavs3/95.wav|ましたあのそこはふくではないんですが
 path/ikaros/wavs3/96.wav|みみがきになりますか
-path/ikaros/wavs3/97.wav|あ、あの
-path/ikaros/wavs3/98.wav|ごめしすみませんこういうのははじめてで
 path/ikaros/wavs3/99.wav|あ、わたしはいいですからくさんにしてあげてください
 path/ikaros/wavs3/100.wav|ますたーふくそうもうれそうです
 path/ikaros/wavs3/101.wav|そうやっておていれするのですねべんきょうになります
@@ -145,7 +140,6 @@ path/ikaros/wavs3/144.wav|あのますたー、あまりちかづかれると
 path/ikaros/wavs3/145.wav|はい、なんでしょうかました
 path/ikaros/wavs3/146.wav|ますたーがわたしだけをみている
 path/ikaros/wavs3/147.wav|みつめられるとどうりょくつゆがあつくなります
-path/ikaros/wavs3/148.wav|ね
 path/ikaros/wavs3/149.wav|くちのなかをかくにんするのですか
 path/ikaros/wavs3/150.wav|おいますたーのあじがします
 path/ikaros/wavs3/151.wav|からだがあつくなって、わたしどうしてしまったんでしょうか
@@ -282,11 +276,8 @@ path/ikaros/wavs3/281.wav|はい、かばんです
 path/ikaros/wavs3/282.wav|かばんをぬぐいてくださってありがとうございます
 path/ikaros/wavs3/283.wav|あのがっこうへいくのはにんげんらしいでしょうか
 path/ikaros/wavs3/284.wav|わたしもますたーになでなでしてほしいです
-path/ikaros/wavs3/285.wav|よしいいからさあ、いまからおいしゃさんごっこをはじめるぞ
 path/ikaros/wavs3/286.wav|はい、ますたー
-path/ikaros/wavs3/287.wav|ちがうおいしゃさんごっこをやるときは、おれのことはせんせいとよべ
 path/ikaros/wavs3/288.wav|はい、せんせい
-path/ikaros/wavs3/289.wav|うん、それではしんさつをかいしする
 path/ikaros/wavs3/290.wav|せんせい、ほかになにかごようじが
 path/ikaros/wavs3/291.wav|しんさつはいつまでつづくのでしょうか
 path/ikaros/wavs3/292.wav|たいへんですせんせいがおかしくなってしまいました
@@ -294,10 +285,7 @@ path/ikaros/wavs3/293.wav|すみません、せんせいをうたがうなんて
 path/ikaros/wavs3/294.wav|わかりましたどうぞつづけてください
 path/ikaros/wavs3/295.wav|あのおちゅうしゃをしておきます
 path/ikaros/wavs3/296.wav|こういうときはたしかちょっときくとさはらさんが
-path/ikaros/wavs3/297.wav|へー、まあだいたいこんなかんじだな
 path/ikaros/wavs3/298.wav|せんせいしんだんけっかはどうでしょうか
-path/ikaros/wavs3/299.wav|あーだいじょうぶだよけんこうそのものだ
-path/ikaros/wavs3/300.wav|じゃあ、おいしゃさんごっこはおしまいだおれはへやにもどってるぞいやだ
 path/ikaros/wavs3/301.wav|あ、ますたーがいっってしまわれた
 path/ikaros/wavs3/302.wav|では、このぼうりょくろんのいっしょうはからだなになのでしょうか
 path/ikaros/wavs3/303.wav|おいしゃさんごっこ、わたしにはよくわかりませんでした
@@ -363,10 +351,7 @@ path/ikaros/wavs3/362.wav|せんせい、かおがにあっていますが
 path/ikaros/wavs3/363.wav|あ、おきになさらず
 path/ikaros/wavs3/364.wav|しすてむすきゃんかいしいそがないようですせんせい
 path/ikaros/wavs3/365.wav|また、てすとでてんをとってしまったのですね
-path/ikaros/wavs3/366.wav|かあちゃんごめんよ、いつもはずかかせちゃって
 path/ikaros/wavs3/367.wav|だいじょうぶですつぎはがんばりましょう
-path/ikaros/wavs3/368.wav|ありがとうおかあちゃん
-path/ikaros/wavs3/369.wav|せめて、せめてひごろのおれいにまっさーじさせてくれよ
 path/ikaros/wavs3/370.wav|あの、ささきは
 path/ikaros/wavs3/371.wav|もうおわりでしょうか
 path/ikaros/wavs3/372.wav|わたしがちゃんとしかってあげないと
@@ -376,7 +361,6 @@ path/ikaros/wavs3/375.wav|わるいこにはおしりぺんぺんです
 path/ikaros/wavs3/376.wav|ねばす
 path/ikaros/wavs3/377.wav|あ、すいかが
 path/ikaros/wavs3/378.wav|おかげでげんきがでました
-path/ikaros/wavs3/379.wav|おれかあちゃんがすこしでもらくできるようにがんばるよ
 path/ikaros/wavs3/380.wav|はい、いっしょにがんばりましょう
 path/ikaros/wavs3/381.wav|あーかていほうかいです
 path/ikaros/wavs3/382.wav|きもちいいです
@@ -434,10 +418,7 @@ path/ikaros/wavs3/433.wav|いけないこです
 path/ikaros/wavs3/434.wav|これはまっさーじといえるのでしょうか
 path/ikaros/wavs3/435.wav|おしおきしなくちゃ
 path/ikaros/wavs3/436.wav|とてもじょうずです
-path/ikaros/wavs3/437.wav|いかろすめいどとしてのとっくんをしようとおもう
-path/ikaros/wavs3/438.wav|まずはしせいをただすことがきほんだじゅんびはいいか
 path/ikaros/wavs3/439.wav|はい、りっぱなめいどになってますたーにおつかえしたいです
-path/ikaros/wavs3/440.wav|よし、よくいっった、じゃあ、はじめるぞ
 path/ikaros/wavs3/441.wav|ましたさびしいです
 path/ikaros/wavs3/442.wav|わたし、なにかそしょうをしてしまったでしょうか
 path/ikaros/wavs3/443.wav|あのますたーどうかされたのですか
@@ -447,7 +428,6 @@ path/ikaros/wavs3/446.wav|しんぱくすうていか、あんぜんりょうい
 path/ikaros/wavs3/447.wav|しょっくをあたえるとなおるとかいちょうさんがいっってましたので
 path/ikaros/wavs3/448.wav|ますたーがこんらんしているどうしたら
 path/ikaros/wavs3/449.wav|これでりっぱなめいどになれるでしょうか
-path/ikaros/wavs3/450.wav|あ、おまえならさいこうのめいどになれるおれがほしょうする
 path/ikaros/wavs3/451.wav|ましたわたし、とてもうれしいです
 path/ikaros/wavs3/452.wav|ましたいままでおせわになりましたありがとうございます
 path/ikaros/wavs3/453.wav|ここは、こうですか
@@ -514,9 +494,7 @@ path/ikaros/wavs3/513.wav|ますたーがおのぞみなら
 path/ikaros/wavs3/514.wav|ますたー、あのどうして
 path/ikaros/wavs3/515.wav|ましたなぜこのようなことを
 path/ikaros/wavs3/516.wav|これはおしおきなのでしょうか
-path/ikaros/wavs3/517.wav|ごごめん、いそいでたんで、ほらてにつかまって
 path/ikaros/wavs3/518.wav|だいじょうぶです、うん、にんでたてますあいった
-path/ikaros/wavs3/519.wav|だいじょうぶか、こっちのふちゅういだし、ほかにもけがしてないかみせてくれ
 path/ikaros/wavs3/520.wav|はやくがっこうにいかないと
 path/ikaros/wavs3/521.wav|あの、なにかきになるところがありますか
 path/ikaros/wavs3/522.wav|あの、なにかおくらせるようなことしてしまったのでしょうか
@@ -527,8 +505,6 @@ path/ikaros/wavs3/526.wav|そのもうしわけございません
 path/ikaros/wavs3/527.wav|あ、だいじょうぶですきにしないでください
 path/ikaros/wavs3/528.wav|てをかしてくれてありがとうございます
 path/ikaros/wavs3/529.wav|それでは、わたしはこれで
-path/ikaros/wavs3/530.wav|あ、ちょっとうちまった
-path/ikaros/wavs3/531.wav|でも、かわいいこだったなまたいつかあえないかな
 path/ikaros/wavs3/532.wav|ごめんなさいいそいでるのでこれでしつれいします
 path/ikaros/wavs3/533.wav|あ、あのそこはだいじょうぶです
 path/ikaros/wavs3/534.wav|めだつけがはしていないようです
